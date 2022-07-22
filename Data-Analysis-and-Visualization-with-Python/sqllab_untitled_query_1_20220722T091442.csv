@@ -1,0 +1,45 @@
+name,dimension,sum,sum__1,sum__2
+120x600_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,120x600,283,4,0.35464
+120x600_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,120x600,347,4,0.43526006
+120X600Take A Quantum Leap_RYZEN_Whitelist_Q3,120x600,388,5,0.49276003
+160x600_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,160x600,421,5,0.53239
+160x600_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,160x600,405,7,0.5115
+160X600Take A Quantum Leap_RYZEN_Whitelist_Q3,160x600,684,12,0.86238
+200x200_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,200x200,114,2,0.14478
+200x200_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,200x200,124,2,0.15691
+200X200Take A Quantum Leap_RYZEN_Whitelist_Q3,200x200,561,4,0.71246994
+234x60_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,234x60,775,4,0.98077
+234x60_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,234x60,842,2,1.06934
+234X60 Take A Quantum Leap_RYZEN_Whitelist_Q3,234x60,5759,7,7.31335
+250x250_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,250x250,8081,10,10.1948
+250x250_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,250x250,8099,10,10.23579
+250X250 Take A Quantum Leap_RYZEN_Whitelist_Q3,250x250,36848,34,46.78122
+300x250_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,300x250,42309,40,53.016342
+300x250_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,300x250,42204,40,52.882065
+300x250 Take A Quantum Leap_RYZEN_Whitelist_Q3,300x250,117430,138,148.78986
+300x50_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,300x50,9714,9,12.24418
+300x50_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,300x50,10508,11,13.24971
+300X50 Take A Quantum Leap_RYZEN_Whitelist_Q3,300x50,32432,20,41.182602
+300x600_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,300x600,2797,7,3.53026
+300x600_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,300x600,2987,14,3.7755
+300X600Take A Quantum Leap_RYZEN_Whitelist_Q3,300x600,10949,25,13.847429
+320x100_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,320x100,47,1,0.05969
+320x100_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,320x100,58,1,0.07366001
+320x50_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,320x50,36523,37,46.075455
+320x50_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,320x50,36097,39,45.548275
+320X50 Take A Quantum Leap_RYZEN_Whitelist_Q3,320x50,130051,125,164.91148
+336x280_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,336x280,6614,10,8.3539
+336x280_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,336x280,6470,11,8.156071
+336X280 Take A Quantum Leap_RYZEN_Whitelist_Q3,336x280,34020,61,43.17501
+468x60_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,468x60,27,3,0.03365
+468x60_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,468x60,31,2,0.0388
+468X60 Take A Quantum Leap_RYZEN_Whitelist_Q3,468x60,110,7,0.13970001
+728x90_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,728x90,7110,5,8.976721
+728x90_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,728x90,7439,7,9.416821
+728x90 Take A Quantum Leap_RYZEN_Whitelist_Q3,728x90,23381,20,29.518648
+970x250_nothing_stacks_up_to_epyc_Whitelist_Q3_DIGITALEAST,970x250,191,3,0.238
+970x250_Now_even_more_epyc_Whitelist_Q3_DIGITALEAST,970x250,190,5,0.23959002
+970X 250Take A Quantum Leap_RYZEN_Whitelist_Q3,970x250,561,5,0.70153004
+AMD_RYZEN_QuantumLeap_Native_July,0x0,1035168,3213,574.5768
+Blade native,0x0,379158,835,170.08124
+Stack native,0x0,355308,805,141.24594
