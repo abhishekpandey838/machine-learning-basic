@@ -1,0 +1,33 @@
+## Nuances of Logistic Regression - Sample Selection
+
+
+* Cyclical or seasonal fluctuations in the business that need to be taken care of while building the samples. E.g. Diwali sales, economic ups and downs, etc.
+
+* The sample should be representative of the population on which the model will be applied in the future.
+
+* For rare events samples, the sample should be balanced before it is used for modelling.
+
+
+
+### Nuances of Logistic Regression - Segmentation
+
+https://www.analyticsvidhya.com/blog/2016/02/guide-build-predictive-models-segmentation/
+
+###  Nuances of Logistic Regression - Variable Transformation-I
+
+ou already know that categorical variables have to be transformed into dummies. Also, you were told that numeric variables have to be standardised, so that they all have the same scale. However, you could also convert numeric variables into dummy variables, using the techniques mentioned by Hindol in the video above.
+
+ 
+
+There are some pros and cons of transforming variables to dummies. Creating dummies for categorical variables is very straightforward. You can directly create n-1 new variables from an existing categorical variable if it has n levels. But for continuous variables, you would be required to do some kind of EDA analysis for binning the variables.
+
+ 
+
+The major advantage offered by dummies especially for continuous variables is that they make the model stable. In other words, small variations in the variables would not have a very big impact on a model that was made using dummies, but they would still have a sizeable impact on a model built using continuous variables as is.
+
+
+On the other side, there are some major disadvantages that exist. E.g. if you change the continuous variable to dummies, all the data will be compressed into very few categories and that might result in data clumping.
+
+
+
+ 
